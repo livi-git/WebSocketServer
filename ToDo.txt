@@ -1,0 +1,4 @@
+modify JWT to accomodite the tokens from .net -done
+authenticate token - done
+get username and use it as key in clientlist map - done
+forward message to user using map
